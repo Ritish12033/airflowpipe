@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.blowButton{
+  width:140px;
+  height: 40px;
+  background-color:tomato;
+  background-size: cover;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+}
